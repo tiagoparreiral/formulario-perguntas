@@ -1,6 +1,6 @@
 desafio dia 2
 
-let nome = prompt("Qual é o seu nome?");
+let nome = prompt("Qual o seu nome?");
 let idade = prompt("Quantos anos você tem?");
 let linguagem = prompt("Qual linguagem de programação você está estudando?");
 
