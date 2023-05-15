@@ -11,7 +11,7 @@ let gostaDeLinguagem = prompt(`Você gosta de estudar ${linguagem}? Responda com
 if (gostaDeLinguagem === "1") {
   alert("Parabéns! Continue estudando e você terá muito sucesso.");
 } else if (gostaDeLinguagem === "2") {
-  alert("Ahh que pena... Já tentou aprender outras linguagens?");
+  alert("Que pena, já tentou aprender outras linguagens?");
 } else {
   alert("Resposta inválida. Por favor, responda com o número 1 para SIM ou 2 para NÃO.");
 }
